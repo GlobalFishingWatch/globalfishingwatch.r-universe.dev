@@ -3,4 +3,10 @@
         "package": "gfwr",
         "url": "https://github.com/GlobalFishingWatch/gfwr"
     }
+    
+    {
+        "package": "gfwr",
+        "url": "https://github.com/GlobalFishingWatch/gfwr",
+        "branch" : "develop"
+    }
 ]
